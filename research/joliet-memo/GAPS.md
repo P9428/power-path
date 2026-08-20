@@ -52,31 +52,31 @@ Millsdale extension to the western property line).
 **The eight largest class-F (farm) parcels in those two sections sum to 769.6
 acres — within ~3% of the stated 795.** Not a confirmation; a candidate set.
 
-| PIN | acres | address |
-|---|---|---|
-| 1011023000020000 | 155.00 | V BERNHARD |
-| 1011014000010000 | 123.05 | V BERNHARD |
-| 1011013000010000 | 116.00 | 17415 BERNHARD |
-| 1011011000010000 | 85.91 | V SCHWEITZER |
-| 1011012000010000 | 81.70 | V CHERRY HILL |
-| 1011021000180020 | 72.96 | V ROWELL |
-| 1011024000070000 | 70.00 | V BERNHARD |
-| 1011024000050000 | 65.00 | V RIDGE |
+| PIN (portal format) | raw | acres | address |
+|---|---|---|---|
+| 10-11-02-300-002-0000 | 1011023000020000 | 155.00 | V BERNHARD |
+| 10-11-01-400-001-0000 | 1011014000010000 | 123.05 | V BERNHARD |
+| 10-11-01-300-001-0000 | 1011013000010000 | 116.00 | 17415 BERNHARD |
+| 10-11-01-100-001-0000 | 1011011000010000 | 85.91 | V SCHWEITZER |
+| 10-11-01-200-001-0000 | 1011012000010000 | 81.70 | V CHERRY HILL |
+| 10-11-02-100-018-0020 | 1011021000180020 | 72.96 | V ROWELL |
+| 10-11-02-400-007-0000 | 1011024000070000 | 70.00 | V BERNHARD |
+| 10-11-02-400-005-0000 | 1011024000050000 | 65.00 | V RIDGE |
 
 ### AND THE FINDING THAT MATTERS — existing utility parcels inside the site
 
 Seven parcels in these two sections carry the address label **"UTILITY
 BERNHARD"** and are classed **I (industrial)**:
 
-| PIN | acres | EAV |
-|---|---|---|
-| 1011011000040000 | 9.06 | 74,440 |
-| 1011021000020000 | 5.00 | 16,830 |
-| 1011021000120000 | 4.62 | 15,550 |
-| 1011022000040000 | 3.50 | 11,780 |
-| 1011012000060010 | 3.50 | 11,780 |
-| 1011012000060020 | 3.50 | 11,780 |
-| 1011022000060000 | 1.22 | 4,110 |
+| PIN (portal format) | raw | acres | EAV |
+|---|---|---|---|
+| 10-11-01-100-004-0000 | 1011011000040000 | 9.06 | 74,440 |
+| 10-11-02-100-002-0000 | 1011021000020000 | 5.00 | 16,830 |
+| 10-11-02-100-012-0000 | 1011021000120000 | 4.62 | 15,550 |
+| 10-11-02-200-004-0000 | 1011022000040000 | 3.50 | 11,780 |
+| 10-11-01-200-006-0010 | 1011012000060010 | 3.50 | 11,780 |
+| 10-11-01-200-006-0020 | 1011012000060020 | 3.50 | 11,780 |
+| 10-11-02-200-006-0000 | 1011022000060000 | 1.22 | 4,110 |
 
 **~30.4 acres of existing utility-classed parcels strung along Bernhard Road,
 through the middle of the proposed campus.** Their shape — a chain of small
@@ -99,6 +99,31 @@ same question** — which is precisely the thesis, and it would be found in the
 operator's own record system, not in any energy database.
 
 **Cost: $0.** Same recorder search as the rest of G1, seven more PINs.
+
+### How to run the search
+
+The SOA portal takes PINs as **2-2-2-3-3-4**, dashes optional. **Two partial
+searches return the entire candidate set with owner names** — far faster than
+fifteen individual lookups:
+
+```
+101101      -> all 14 parcels in section 10-11-01
+101102      -> all 23 parcels in section 10-11-02
+```
+
+Note `10-11-01-200-006-0010` and `-0020` are **splits of the same parent parcel
+006**, both 3.50 ac — the signature of a strip carved out of a larger holding,
+which is how an easement or a conveyed right-of-way often appears. Pull the
+parent's history.
+
+**Two-portal discipline, and it is the error-vs-empty rule again:** the SOA
+portal shows the **assessed owner**, which lags recording and reflects the tax
+roll rather than title. It answers "has anything changed hands." It does **not**
+show recorded options or purchase-agreement memoranda — which are exactly how an
+assembler ties up farmland without recording a deed, and therefore exactly what
+this site would show if the developer has control but not ownership. **A `no` at
+the assessor is not a `no` on a transaction.** Only the Recorder's
+grantor/grantee index answers that.
 
 ## G2 — The complaint itself
 
