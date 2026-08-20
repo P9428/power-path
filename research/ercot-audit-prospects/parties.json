@@ -1,0 +1,1082 @@
+[
+ {
+  "party": "ERCOT",
+  "segment": "AGENCY/ISO",
+  "filings": 236,
+  "dockets": "55999,58481",
+  "last": "2026-08-17",
+  "sample": "ELECTRIC RELIABILITY COUNCIL OF TEXAS, INC.\u2019S RESPONSES TO STAFF QUESTIONS"
+ },
+ {
+  "party": "PUC OPDM",
+  "segment": "AGENCY/ISO",
+  "filings": 9,
+  "dockets": "55999,58481",
+  "last": "2026-06-18",
+  "sample": "CHAIRMAN GLEESON MEMORANDUM"
+ },
+ {
+  "party": "PUC RULES & PROJECTS",
+  "segment": "AGENCY/ISO",
+  "filings": 8,
+  "dockets": "58481",
+  "last": "2026-03-16",
+  "sample": "Request for Control Number"
+ },
+ {
+  "party": "PUC MARKET ANALYSIS",
+  "segment": "AGENCY/ISO",
+  "filings": 7,
+  "dockets": "55999",
+  "last": "2026-08-06",
+  "sample": "CONTROL NUMBER REQUEST"
+ },
+ {
+  "party": "OPUC",
+  "segment": "AGENCY/ISO",
+  "filings": 6,
+  "dockets": "55999,58481",
+  "last": "2026-08-19",
+  "sample": "OPUC NOTICE OF PARTICIPATION LETTER"
+ },
+ {
+  "party": "Schaper Energy Consulting LLC",
+  "segment": "ADVISOR/COMPETITOR",
+  "filings": 6,
+  "dockets": "58481",
+  "last": "2026-03-31",
+  "sample": "SCHAPER ENERGY CONSULTING LLC RESPONSE TO STAFF\u2019s QUESTIONS ON PROJECT NO. 58481; RULEMAKI"
+ },
+ {
+  "party": "CENTERPOINT ENERGY  HOUSTON ELECTRIC, LLC",
+  "segment": "UTILITY/TSP",
+  "filings": 5,
+  "dockets": "55999,58481",
+  "last": "2026-04-15",
+  "sample": "Comments of CenterPoint Energy Houston Electric, LLC"
+ },
+ {
+  "party": "Cholla, Inc.",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 5,
+  "dockets": "58481",
+  "last": "2026-04-15",
+  "sample": "Cholla, Inc. Response to Staff Questions on Project No. 58481; Large Load Interconnection "
+ },
+ {
+  "party": "ONCOR ELECTRIC DELIVERY COMPANY LLC",
+  "segment": "UTILITY/TSP",
+  "filings": 5,
+  "dockets": "55999,58481",
+  "last": "2026-04-17",
+  "sample": "ONCOR'S RESPONSE TO COMMISSION STAFF\u2019S FIRST SET OF QUESTIONS FOR COMMENTS"
+ },
+ {
+  "party": "Sierra Club",
+  "segment": "ADVOCACY",
+  "filings": 5,
+  "dockets": "58481",
+  "last": "2026-04-15",
+  "sample": "COMMENTS ON LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA \u00a737.0561"
+ },
+ {
+  "party": "Texas Electric Cooperatives, Inc.",
+  "segment": "UTILITY/TSP",
+  "filings": 5,
+  "dockets": "55999,58481",
+  "last": "2026-06-01",
+  "sample": "Responses of Texas Electric Cooperatives, Inc."
+ },
+ {
+  "party": "Google LLC, Lancium LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 4,
+  "dockets": "58481",
+  "last": "2026-03-10",
+  "sample": "Joint Comments of Google LLC and Lancium LLC to 58481 Large Load Interconnection Standards"
+ },
+ {
+  "party": "SATOSHI ENERGY CORP.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 4,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "Satoshi Comments on Project No. 58481"
+ },
+ {
+  "party": "TEXAS ENERGY BUYERS ALLIANCE",
+  "segment": "TRADE ASSOC",
+  "filings": 4,
+  "dockets": "55999,58481",
+  "last": "2026-06-01",
+  "sample": "TEBA Responses to Staff Questions on Project 58481"
+ },
+ {
+  "party": "TEXAS-NEW MEXICO POWER COMPANY",
+  "segment": "UTILITY/TSP",
+  "filings": 4,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Texas-New Mexico Power Company's Comments to Commission Staff's Questions for Comment"
+ },
+ {
+  "party": "TIEC",
+  "segment": "TRADE ASSOC",
+  "filings": 4,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "TEXAS INDUSTRIAL ENERGY CONSUMERS\u2019 COMMENTS"
+ },
+ {
+  "party": "AEP TEXAS INC.",
+  "segment": "UTILITY/TSP",
+  "filings": 3,
+  "dockets": "58481",
+  "last": "2026-01-16",
+  "sample": "AEP Texas Responses to Questions for Public Comment"
+ },
+ {
+  "party": "BLACK MOUNTAIN POWER",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 3,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "BLACK MOUNTAIN POWER COMMENTS ON PROJECT NO. 58481 DISCUSSION DRAFT"
+ },
+ {
+  "party": "Crusoe Energy Systems, Inc.",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 3,
+  "dockets": "55999,58481",
+  "last": "2026-01-16",
+  "sample": "CRUSOE ENERGY SYSTEMS LLC\u2019S COMMENTS ON STAFF\u2019S DRAFT DISCUSSION RULE 16 TAC \u00a7 25.194"
+ },
+ {
+  "party": "Data Center Coalition",
+  "segment": "TRADE ASSOC",
+  "filings": 3,
+  "dockets": "58481",
+  "last": "2026-01-16",
+  "sample": "DCC Comments on Project 58481, Rulemaking to Implement Large Load Interconnection Standard"
+ },
+ {
+  "party": "Eolian, L.P.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 3,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Comments of Eolian, L.P."
+ },
+ {
+  "party": "NRG ENERGY, INC.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 3,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "NRG Energy, Inc.'s Comments on PUCT Staff's Questions"
+ },
+ {
+  "party": "ROWAN DIGITAL INFRASTRUCTURE LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 3,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "ROWAN DIGITAL INFRASTRUCTURE LLC REPLY COMMENTS"
+ },
+ {
+  "party": "TCPA",
+  "segment": "TRADE ASSOC",
+  "filings": 3,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "TCPA Response to Staff Questions"
+ },
+ {
+  "party": "TPPA",
+  "segment": "TRADE ASSOC",
+  "filings": 3,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Texas Public Power Association (TPPA) Response to Questions for Comment"
+ },
+ {
+  "party": "Cholla Petroleum, Inc.",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2025-12-17",
+  "sample": "Cholla Comments on Draft Rule"
+ },
+ {
+  "party": "Cipher Digital",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-03-27",
+  "sample": "CIPHER DIGITAL INC. COMMENTS TO STAFF PROPOSED PROPOSAL FOR PUBLICATION"
+ },
+ {
+  "party": "ENCHANTED ROCK, LLC",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2025-10-14",
+  "sample": "VOID-SEE ITEM 30"
+ },
+ {
+  "party": "ERCOT STEEL MILLS",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "ERCOT Steel Mills' Comments on Staff's Discussion Draft for Project No. 58481"
+ },
+ {
+  "party": "EdgeConnex",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-03-11",
+  "sample": "EDGECONNEX RESPONSE TO STAFF\u2019S QUESTIONS ON PROJECT NO. 58481; RULEMAKING TO IMPLEMENT LAR"
+ },
+ {
+  "party": "Hut 8 Corp",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-14",
+  "sample": "Hut 8 Comments on Staff's Proposal for Publication"
+ },
+ {
+  "party": "INFINIUM OPERATIONS, LLC",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "INFINIUM'S COMMENTS ON LARGE LOAD INTERCONNECTION STANDARDS DISCUSSION DRAFT"
+ },
+ {
+  "party": "LCRA TRANSMISSION SERVICES CORPORATION",
+  "segment": "UTILITY/TSP",
+  "filings": 2,
+  "dockets": "55999,58481",
+  "last": "2025-12-19",
+  "sample": "RESPONSE TO QUESTIONS FOR COMMENT AND DRAFT NEW 16 TAC \u00a7 25.194"
+ },
+ {
+  "party": "MONARCH ENERGY",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-15",
+  "sample": "Monarch Energy Additional Comments on Proposal for Publication"
+ },
+ {
+  "party": "Monarch Energy Development LLC",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-03-04",
+  "sample": "COMMENTS OF MONARCH ENERGY DEVELOPMENT LLC ON STAFF\u2019s QUESTIONS AND DISCUSSION DRAFT OF NE"
+ },
+ {
+  "party": "PRIORITY POWER MANAGEMENT, LLC",
+  "segment": "ADVISOR/COMPETITOR",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "Priority Power Comments on Draft 16 TAC \u00a725.194 Project No 58481"
+ },
+ {
+  "party": "Provident, Inc.",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-03-04",
+  "sample": "Provident Inc. comments on staff discussion draft"
+ },
+ {
+  "party": "Serena Power",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Serena Power Comments"
+ },
+ {
+  "party": "Skybox Datacenters LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-10",
+  "sample": "Comments of Skybox Datacenters LLC to 58481 Large Load Interconnection Standards"
+ },
+ {
+  "party": "TESLA, INC.",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "TESLA comments on Project 58481"
+ },
+ {
+  "party": "TEXAS BLOCKCHAIN COUNCIL",
+  "segment": "TRADE ASSOC",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-01-16",
+  "sample": "Project No. 58481 \u2013 Rulemaking to Implement Large Load Interconnection Standards (16 TAC \u00a7"
+ },
+ {
+  "party": "TEXAS OIL & GAS ASSOCIATION",
+  "segment": "TRADE ASSOC",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "TEXAS OIL & GAS ASSOCIATION'S COMMENTS ON DISCUSSION DRAFT 16 TAC \u00a725.194"
+ },
+ {
+  "party": "Targa Resources LLC",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Targa Resources LLC's Comments in Response to Commission Staff's Discussion Draft"
+ },
+ {
+  "party": "VISTRA CORP.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-09",
+  "sample": "Vistra Corp.'s Comments on Planning Guide Revision Request 145 for Project 58481"
+ },
+ {
+  "party": "Vistra Corporate Services Company",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 2,
+  "dockets": "55999,58481",
+  "last": "2026-06-01",
+  "sample": "Vistra's Comments - Project 58481"
+ },
+ {
+  "party": "Zachary Butler, Blind Mice Labs",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 2,
+  "dockets": "58481",
+  "last": "2026-04-10",
+  "sample": "Public Comment on SB 6 Large-Load Interconnection Standards \u2014 Satellite-Based Evidence of "
+ },
+ {
+  "party": "AARP Texas",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2025-01-31",
+  "sample": "COMMENTS AND REQUEST FOR ACTION FROM AARP"
+ },
+ {
+  "party": "AEP COMPANIES",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-13",
+  "sample": "AEP COMPANIES\u2019 COMMENTS ON COMMISSION\u2019S PROPOSAL FOR PUBLICATION"
+ },
+ {
+  "party": "Advanced Power Alliance and American Clean Power Association",
+  "segment": "TRADE ASSOC",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Comments of the Advanced Power Alliance and American Clean Power Association"
+ },
+ {
+  "party": "Agentic Infrastructure LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "Agentic Infrastructure (\"Agentic\") comments regarding project no.58481"
+ },
+ {
+  "party": "Anthony D Smith",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2026-08-19",
+  "sample": "Reports of the Electric Reliability Council of Texas"
+ },
+ {
+  "party": "Aperture",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "Comments on Staff new Draft 16 TAC \u00a725.194"
+ },
+ {
+  "party": "Aurora Jean Brown",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-18",
+  "sample": "Supplemental Public Comment regarding Project 58481 - Utility Telemetry and Grid Stability"
+ },
+ {
+  "party": "BASF",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "BASF Comments on Rule Project 58481"
+ },
+ {
+  "party": "BKV Corporation",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "58481 - BKV Initial Comments (04.17.26)"
+ },
+ {
+  "party": "BRAZOS ELECTRIC POWER COOPERATIVE, INC",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Comments of Transmission Service Provider Cooperatives"
+ },
+ {
+  "party": "CCNG, Inc.",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-13",
+  "sample": "CCNG Comments and Redlines for the Proposal for Publication in Project 58481"
+ },
+ {
+  "party": "CITY OF RED OAK",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-01-16",
+  "sample": "City of Red Oak Comments on the 2nd Discussion Draft"
+ },
+ {
+  "party": "COMPASS, Bureau of Economic Geology",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-10-10",
+  "sample": "COMMENTS OF THE BUREAU OF ECONOMIC GEOLOGY, THE UNIVERSITY OF TEXAS AT AUSTIN Filed by: CO"
+ },
+ {
+  "party": "CONSTELLATION ENERGY GENERATION, LLC",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "CONSTELLATION ENERGY GENERATION, LLC\u2019S COMMENTS ON COMMISSION STAFF\u2019S PROPOSAL FOR PUBLICA"
+ },
+ {
+  "party": "CPS ENERGY",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-01-16",
+  "sample": "CPS Energy's Response to Questions for Comment"
+ },
+ {
+  "party": "CROSS TEXAS TRANSMISSION, LLC",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "Comments of Cross Texas Transmission, LLC"
+ },
+ {
+  "party": "CloudHQ LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "CloudHQ LLC's Comments"
+ },
+ {
+  "party": "Competitive Power Ventures",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-06",
+  "sample": "CPV Comments on Proposal for Publication of 16 TAC \u00a725.194"
+ },
+ {
+  "party": "Cormint",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-01-16",
+  "sample": "Existing load increases are inherently not speculative"
+ },
+ {
+  "party": "Cormint Data Systems",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-20",
+  "sample": "Cormint Data Systems Comments on Staff PforP in 58481"
+ },
+ {
+  "party": "Crow Holdings",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "INITIAL COMMENTS OF CROW HOLDINGS"
+ },
+ {
+  "party": "Crusoe Technologies LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "CRUSOE TECHNOLOGIES LLC\u2019S COMMENTS ON STAFF\u2019S PROPOSAL FOR PUBLICATION OF NEW 16 TAC \u00a7 25."
+ },
+ {
+  "party": "DC Energy Texas, LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "COMMENTS OF DC ENERGY TEXAS, LLC"
+ },
+ {
+  "party": "Dallas County Public Works",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "Dallas County Public Works Comments on Implementation of SB 6"
+ },
+ {
+  "party": "Data Center 3 Way Rd.",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2026-08-18",
+  "sample": "Stop the Data Center on 3 Way Rd. Wichita Falls, Archer county."
+ },
+ {
+  "party": "Data Center Coalition (DCC)",
+  "segment": "TRADE ASSOC",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Comments on Proposal for Publication on Proposed New 16 TAC \u00a725.194"
+ },
+ {
+  "party": "Digital Power Network",
+  "segment": "TRADE ASSOC",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-18",
+  "sample": "Digital Power Network comments on PUCT PROJECT NO. 58481."
+ },
+ {
+  "party": "ELECTRIC TRANSMISSION TEXAS, LLC",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-01-16",
+  "sample": "ETT\u2019S COMMENTS ON STAFF\u2019S 2ND DISCUSSION DRAFT"
+ },
+ {
+  "party": "ENVIRONMENTAL DEFENSE FUND INC",
+  "segment": "ADVOCACY",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "EDF Comments on Large Load Interconnection Standards - PUCT 58481"
+ },
+ {
+  "party": "Electric Hydrogen Co.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "Electric Hydrogen Comments on Proposed 16 TAC 25.194"
+ },
+ {
+  "party": "Eneus Energy",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-10-10",
+  "sample": "Eneus Response to Staff Questions on Project No. 58481"
+ },
+ {
+  "party": "Engine 1",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-03-11",
+  "sample": "Engine 1's Comments on PUCT Staff's Proposal for Publication"
+ },
+ {
+  "party": "Eolic Development Partners",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "Eolic Development Partners Comments on Proposed New 16 TAC 25.194"
+ },
+ {
+  "party": "Exxon Mobil Corporation",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "Exxon Mobil Corporation comments on 58481 Discussion Draft"
+ },
+ {
+  "party": "FREEPORT LNG DEVELOPMENT, L.P.",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-18",
+  "sample": "Freeport LNG Development, L.P. comments to address new proposed \u00a725.194(l)."
+ },
+ {
+  "party": "GOOGLE LLC, LANCIUM LLC, TOTALENERGIES RENEWABLES USA",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "Joint Comments of Google LLC, Lancium LLC, and TotalEnergies Renewables USA"
+ },
+ {
+  "party": "GUADALUPE VALLEY ELECTRIC COOPERATIVE, INC",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "GVEC's Comments on Proposal for Publication"
+ },
+ {
+  "party": "Golden Spread Electric Cooperative, Inc.",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "Comments of Golden Spread Electric Cooperative"
+ },
+ {
+  "party": "HEARNE MUNICIPAL ELECTRIC",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2025-10-27",
+  "sample": "LSIPA compliance"
+ },
+ {
+  "party": "HIF USA LLC",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "PROJECT NO 58481 - HIF USA LLC Comments"
+ },
+ {
+  "party": "HUNT ENERGY NETWORK L.L.C.",
+  "segment": "TRADE ASSOC",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "HUNT ENERGY NETWORK'S COMMENTS ON COMMISSION\u2019S PROPOSAL FOR PUBLICATION"
+ },
+ {
+  "party": "Hood County Clean Air Coalition",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "Hood County Clean Air Coalition Comment for Rulemaking to Implement Large Load Interconnec"
+ },
+ {
+  "party": "House State Affairs Committee",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "SB 6 Implementation"
+ },
+ {
+  "party": "INTERIM EXECUTIVE DIRECTOR CONNIE CORONA",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2024-02-14",
+  "sample": "Response Letter to Senator Middleton"
+ },
+ {
+  "party": "INTERSECT POWER, LLC.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-14",
+  "sample": "Intersect Power, LLC's Initial Comments"
+ },
+ {
+  "party": "IREN",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-03-04",
+  "sample": "IREN Comments on Proposed PFP"
+ },
+ {
+  "party": "Jason Buster",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-03-30",
+  "sample": "Comments on Proposal for Publication of 16 TAC \u00a725.194 \u2013 Project No. 58481"
+ },
+ {
+  "party": "Jordan Smith",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2026-08-19",
+  "sample": "Reports of the Electric Reliability Council of Texas"
+ },
+ {
+  "party": "LANCIUM, LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-10-10",
+  "sample": "Lancium Comments on Project No. 58481"
+ },
+ {
+  "party": "LANDMARK DEVELOPMENT SERVICES AND ECOPARTNER ALLIANCE",
+  "segment": "TRADE ASSOC",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "COMMENTS OF LANDMARK DEVELOPMENT SERVICES LLC AND ECOPARTNER ALLIANCE ON PROPOSED 16 TAC \u00a7"
+ },
+ {
+  "party": "LCRA TRANSMISSION SERVICE CORPORATION",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-10-10",
+  "sample": "RESPONSE TO QUESTIONS FOR COMMENT"
+ },
+ {
+  "party": "LOWER COLORADO RIVER AUTHORITY",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2026-08-20",
+  "sample": "COMMENTS"
+ },
+ {
+  "party": "LOWER COLORADO RIVER AUTHORITY AND LCRA TRANSMISSION SERVICES CORPORATION",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-15",
+  "sample": "COMMENTS ON THE PROPOSAL FOR PUBLICATION"
+ },
+ {
+  "party": "LOWER COLORADO RIVER AUTHORITY AND LCRA TRANSMISSION SERVICES CORPORATION (LCRA)",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2026-06-01",
+  "sample": "COMMENTS"
+ },
+ {
+  "party": "Leaptran, Inc.",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-02-12",
+  "sample": "Comments of Leaptran, Inc."
+ },
+ {
+  "party": "Luminary Strategies,LLC",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-02-26",
+  "sample": "Speed to Power Concept Paper for ERCOT Large Load Batch Study Proceedings"
+ },
+ {
+  "party": "MISSION POWER",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "BRIEF COMMENTS IN SUPPORT OF CHAIRMAN GLEESON'S \"GRADUAL ESCALATOR FRAMEWORK\" FOR GRADUAL "
+ },
+ {
+  "party": "Matthew Horany",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2026-08-13",
+  "sample": "Public comment of Matt Horany"
+ },
+ {
+  "party": "NORTH CENTRAL TEXAS COUNCIL OF GOVERNMENTS",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "NCTCOG Comments on Draft 16 TAC \u00a725.194 Project No 58481"
+ },
+ {
+  "party": "Nightpeak Energy",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-03-11",
+  "sample": "Nightpeak Energy Comments on Staff's Proposal for Publication"
+ },
+ {
+  "party": "OCCIDENTAL PERMIAN LTD",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "Occidental Permian, LTD. Comments"
+ },
+ {
+  "party": "ONCOR ELETRIC DELIVERY COMPANY LLC",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2025-05-07",
+  "sample": "RESPONSE TO ERCOT'S REQUEST FOR GOOD CAUSE EXCEPTION FOR 2025 REGIONAL TRANSMISSION PLAN"
+ },
+ {
+  "party": "PUC EXECUTIVE DIRECTOR",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2025-05-02",
+  "sample": "Invitation to and deadline for comment on ERCOT's May 1, 2025 request for good cause excep"
+ },
+ {
+  "party": "Permian Basin Petroleum Association",
+  "segment": "TRADE ASSOC",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Permian Basin Petroleum Association's Comments in Response to Proposal for Publication of "
+ },
+ {
+  "party": "Potomac Economics",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2026-02-13",
+  "sample": "IMM review of market RTC performance"
+ },
+ {
+  "party": "SARAH DUNHAM",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-14",
+  "sample": "Project# Rule 25.194 The people demand full and extensive transparency on all water and ga"
+ },
+ {
+  "party": "SERENA ENERGY",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-01-16",
+  "sample": "COMMENTS OF SERENA ENERGY"
+ },
+ {
+  "party": "SHARYLAND UTILITIES, L.L.C.",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-10-10",
+  "sample": "Sharyland Utilities, L.L.C's Comments to Commission Staff's Questions for Comments"
+ },
+ {
+  "party": "SHELL ENERGY NORTH AMERICA, (US), L.P.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2025-05-07",
+  "sample": "Shell Comments"
+ },
+ {
+  "party": "SOUTH TEXAS ELECTRIC COOPERATIVE, INC.",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2025-05-07",
+  "sample": "STEC\u2019S COMMENTS ON ERCOT\u2019S REQUEST FOR GOOD CAUSE EXCEPTION"
+ },
+ {
+  "party": "STACK Infrastructure",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-15",
+  "sample": "STACK INFRASTRUCTURE COMMENTS TO PROPOSAL FOR PUBLICATION IN PROJECT NO. 58481"
+ },
+ {
+  "party": "STEERING COMMITTEE OF CITIES SERVED BY ONCOR AND TEXAS COALITION FOR AFFORDABLE POWER",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "The Steering Committee of Cities Served by Oncor and Texas Coalition for Affordable Power'"
+ },
+ {
+  "party": "Senator Mayes Middleton",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2024-02-13",
+  "sample": "Requesting clarity on ERCOT operations and annual costs incurred by load serving entities."
+ },
+ {
+  "party": "Soluna Digital",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "SOLUNA DIGITAL\u2019S SUPPORTIVE COMMENTS FOR COMMENTS SUBMITTED BY SATOSHI ENERGY ON STAFF'S D"
+ },
+ {
+  "party": "Splight Inc.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "SPLIGHT COMMENTS ON STAFF'S DRAFT DISCUSSION RULE \u00a7 25.194"
+ },
+ {
+  "party": "THE DOW CHEMICAL COMPANY AND AFFILIATES",
+  "segment": "INDUSTRIAL LOAD",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "P.58481 - Dow Comments.pdf"
+ },
+ {
+  "party": "Texas Public Policy Foundation",
+  "segment": "AGENCY/ISO",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Texas Public Policy Foundation's Comments on the Proposed New 16 TAC \u00a725.194"
+ },
+ {
+  "party": "The City of Bryan, Texas",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-16",
+  "sample": "Letter from the City of Bryan Mayor to the Public Utilities Commission of Texas regarding "
+ },
+ {
+  "party": "Thor Equities LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Thor Equities\u2019 Comments on PUCT Staff\u2019s Proposal for Publication"
+ },
+ {
+  "party": "Tract",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-01-17",
+  "sample": "Tract Post-Workshop Comments on Staff's Second Discussion Draft"
+ },
+ {
+  "party": "Tract Holding Company I, LLC",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-13",
+  "sample": "TRACT HOLDING COMPANY I, LLC\u2019S COMMENTS ON THE COMMISSION\u2019S PROPOSAL FOR PUBLICATION TO IM"
+ },
+ {
+  "party": "Trammell Crow Company",
+  "segment": "** DATA CENTER / DIGITAL **",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Trammell Crow Company's Comments on Proposal for Publication of 16 TAC\u00a7 25.194"
+ },
+ {
+  "party": "VOLTUS, INC.",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "VOLTUS COMMENTS ON LARGE LOAD INTERCONNECTION STANDARDS"
+ },
+ {
+  "party": "WIND ENERGY TRANSMISSION LLC",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "55999",
+  "last": "2025-05-07",
+  "sample": "Joint Comments of Wind Energy Transmission Texas, LLC; Cross Texas Transmission, LLC; and "
+ },
+ {
+  "party": "WIND ENERGY TRANSMISSION TEXAS, LLC",
+  "segment": "UTILITY/TSP",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-17",
+  "sample": "Joint TSPs\u2019 Comments on Proposal for Publication"
+ },
+ {
+  "party": "Wise Energy Resources",
+  "segment": "GEN / BEHIND-METER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2025-12-19",
+  "sample": "Wise Energy Resources Comments on Discussion Draft and Questions"
+ },
+ {
+  "party": "Zack Butler / EnerShield AI",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-14",
+  "sample": "Supplemental Filing \u2014 Environmental Justice Findings, supplement to FCROOJZE and IYFIPWNQ"
+ },
+ {
+  "party": "Zack Butler | EnerShield AI",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-15",
+  "sample": "Suplement filing to comment XYAWFICE - Updated analytic methodology attribution of SVI/TRI"
+ },
+ {
+  "party": "Zack Butler | EnerShield AI | Blind Mice Labs",
+  "segment": "INDIVIDUAL/OTHER",
+  "filings": 1,
+  "dockets": "58481",
+  "last": "2026-04-12",
+  "sample": "Supplemental Comments and Request for Public Hearing of Zack Butler / EnerShield AI Regard"
+ }
+]
