@@ -382,3 +382,114 @@ for reversible doors.
 Holding, LLC, **and** N2 returning that the work is non-legal advisory as scoped —
 in which case the original sequence was harmless and the amendment cost one hour.
 Both required. Either alone leaves the amendment correct.
+
+---
+
+## PP-015 — The seller-side ICP: dead as applied, and what survives is a different business
+**Date:** 2026-08-20 · **Contract:** M-PP-02 · **Decided by:** operator, run by Claude
+
+Hypothesis under test: *the ICP is the seller-side landowner — the Bernhard
+family and the other holders in sections 10-11-01/02 — selling into a contingent
+deal with nobody advising them.*
+
+**Verdict: DEAD as applied to this deal, on the ERCOT falsifier.** What survives
+is a different and sharper claim, recorded at the bottom.
+
+### The five seller exposures, tested
+
+Claude asserted, in conversation and before checking, that a farm family selling
+into this deal carries live risk. Five candidates were named. **Tested, four of
+five fail as a basis for paid advisory.**
+
+**1. Rezoning-to-industrial tax exposure — FALSE. Killed by primary rule.**
+Claude implied that A-1 → I-1 rezoning creates assessment exposure for holders
+who do not close. **It does not.** Illinois farmland assessment under 35 ILCS 200
+Art. 10 Div. 6 values farmland on **soil productivity index and actual land use**;
+IDOR Publication 122 states that **market value does not enter the assessment
+formula.** Zoning is not use. And §10-30 (developer's preferential assessment,
+IDOR Pub. 134) holds the preferential assessment until *"a habitable structure is
+completed or a lot is sold or used for residential, business, or commercial
+purpose."* **A Bernhard who keeps farming stays farm-assessed regardless of the
+zoning map.** The trigger is sale or change of use — i.e. the buyer's problem,
+after transfer.
+
+This was Claude's most concrete seller-side exposure and it took one search to
+falsify. **Recorded as false rather than narrowed into "may have tax
+implications."**
+
+**2–3. Buyer-walk risk and entitlement-risk allocation — REAL BUT PRIVATE.**
+Whether the buyer can walk if the 2026-09-08 ruling voids the rezoning, and who
+eats the entitlement risk, are governed by the purchase contract. **That contract
+is private and cannot be analysed from public record at any price.** An advisor
+cannot add value on terms they cannot read.
+
+**4–5. Title defect and gas easement — REAL, AND ALREADY SOMEONE'S JOB.** The
+`BERNARD` / `BERNHARD` spelling discrepancy and the NGPL-consistent easement are
+genuine. **They are also exactly what a closing attorney and a title company
+find, on every deal, as a matter of course.** A tens-of-millions farmland closing
+has both.
+
+### The gates
+
+**REALITY — FAILS.** The falsifier is *their counsel already owns this work.* For
+a family selling ~795 acres for a reported "tens of millions," the residual
+knowable risks are **closing-attorney and title-company work by definition**, and
+the risks that actually matter sit in a contract no outsider can read. This is the
+**identical falsifier that killed ERCOT** (PP-006) — but unlike ERCOT it was
+checked before anything was sent, and it cost one hour and zero dollars.
+
+**DOOR — worse than it looks.** Approaching the Bernhards is **Type 1** and
+unusually so. The deal carries a reported conflict-of-interest allegation
+involving a sitting city official, active litigation, and organised opposition.
+An unknown non-lawyer arriving with an analysis of the weaknesses in the family's
+own transaction is likely to read as adversarial or opportunistic **regardless of
+intent**. First impression, unrecoverable.
+
+**CIRCLE — passes**, and passing is not evidence about the other gates.
+Fragmented family trusts and contested title are the operator's demonstrated
+domain.
+
+**EMOTION — hot, and named at the time.** The finding set was dramatic: a
+conflict allegation, a plaintiff owning dirt inside the footprint, a pipeline.
+Gate 8 was flagged as live in the same message that raised the hypothesis, which
+is the correct order — the hypothesis was then tested rather than pitched.
+
+**TIMING — the decisive point.** The purchase contract was signed before the
+February–March 2026 hearings. **The advisory moment for a seller is before
+signing.** Post-signature advice is a second opinion on a decision already made.
+This deal is roughly six months past the window.
+
+### What survives — a different business, not a rescue
+
+**The asymmetry is real but it sits PRE-CONTRACT.** When an assembler approaches a
+farm family, the family must decide whether their ground is worth agricultural
+value or assembly value — a spread on the order of 5–20x. **The determinant of
+that spread is the power path, and the assembler knows it while the owner does
+not.** That is copper-versus-paper pointed at the seller rather than the buyer,
+and it is the first formulation of the thesis that came out of evidence instead
+of assumption.
+
+The population is identifiable at **$0** by the method already demonstrated:
+farm-class parcels near transmission, in ComEd territory, **not yet petitioned**.
+Once a project reaches a council agenda the land is tied up and the window has
+shut.
+
+**NEW BLOCKING ASSUMPTION — N6, a second licensing question.** Advising a
+landowner, for compensation, on what their land is worth may require an
+**Illinois real estate broker licence**, independently of the UPL question at N2.
+**Two licensing questions now gate this, not one.** Neither has been asked.
+
+### The sharpest available statement of the thesis, from this session's evidence
+
+**Site control and power path are the same question, and nobody analyses them
+together.** Real estate practitioners do title. Energy practitioners do
+interconnection. On the Joliet parcel both lived in the same records and neither
+profession crossed over — which is why a $0 afternoon produced a unit error in
+the governing staff memo, a ~6.8x contradiction on the headline tax figure, a
+power path described entirely in future tense, seven gas-pipeline parcels nobody
+mentioned, and a developer that owns none of the land.
+
+**Reversal condition:** an Illinois attorney answer and a broker-licensing answer
+that together permit unlicensed advisory; **and** one pre-contract landowner
+stating that nobody has explained their power path to them. Both required. The
+Bernhards specifically are **not** revisited — that door is Type 1 and stays shut.
