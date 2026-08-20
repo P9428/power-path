@@ -493,3 +493,59 @@ mentioned, and a developer that owns none of the land.
 that together permit unlicensed advisory; **and** one pre-contract landowner
 stating that nobody has explained their power path to them. Both required. The
 Bernhards specifically are **not** revisited — that door is Type 1 and stays shut.
+
+---
+
+## PP-016 — The public record is a lagging indicator BY CONSTRUCTION, and two prospect lists were built from it
+**Date:** 2026-08-20 · **Contract:** M-PP-02 · **Decided by:** operator, identified by Claude
+
+**The mechanism.** To petition for annexation, rezoning, or a PUD you must have
+standing — owner or contract purchaser. **The petition is therefore proof that
+the land is already tied up.** The record does not lag by weeks or by accident.
+**It is created at the moment the deal becomes irreversible**, because creating it
+is what makes the deal irreversible. Filing *is* the commitment.
+
+**Consequence, and it is definitional rather than probabilistic:** every project
+findable on a council agenda, in a docket, or in trade press is **past the
+advisory window**. Not most of them. All of them.
+
+**This is the third instance of one error, across two states.** The ERCOT prospect
+list (PP-006) was built from PUCT dockets 58481 and 55999 — where parties appear
+**after** committing counsel and money. The Illinois list (PP-013, killed) was to
+be built from municipal approval records — where parties appear **after**
+executing a purchase contract. Same structure, different jurisdiction, both times
+a list of people whose decisions were already made.
+
+Distinguish this from the sequencing error already logged three times (ERCOT:
+wrong county; M-PP-01: wrong rung; M-PP-02: wrong order). **That family is about
+what we did in what order. This one is about the nature of the source itself**,
+and it would have produced a useless list even executed perfectly and in sequence.
+
+### The inversion — leading indicators that exist before the deal
+
+| Source | Why it leads |
+|---|---|
+| Transmission infrastructure and substation locations | Static. Exists decades before any assembly |
+| Parcel ownership, class, acreage (county GIS + assessor) | Static, free, and queryable at parcel level — demonstrated 2026-08-20 at $0 |
+| Recorded utility easements | Recorded long before a data-center deal is conceived |
+| **PJM RTEP** | Forward-looking transmission plan. Published **before** anyone options an acre |
+| **PJM new-service / interconnection queue** | A queue position can precede or reveal land assembly |
+| **ComEd cluster-study reporting to the ICC** | Ordered disclosure of where large-load capacity is being studied |
+
+Overlaying the forward-looking sources on farm-class parcels near transmission
+describes **where assemblers must go next**, rather than where they have already
+been. That is a different artifact from a prospect list and it is not a prospect
+list dressed differently.
+
+### Not authorised, and deliberately not acted on
+
+This idea arrived late in a session that had already produced a dramatic finding
+set, which is exactly the condition gate 8 exists for. **It is recorded, not
+started.** It runs the eight gates before it receives an hour, and it is
+downstream of both licensing questions (N2 — UPL; N6 — Illinois real estate
+broker licence). Neither has been asked.
+
+**Reversal condition:** discovering that some assemblies do leave a public trace
+before commitment — an unrecorded-option registry, a disclosure requirement, or a
+utility filing naming a site pre-contract — which would make the record a
+partially leading indicator and reopen list-building from records.
