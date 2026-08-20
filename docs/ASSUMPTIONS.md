@@ -169,10 +169,46 @@ Whether it remains the all-time peak in 2026 is unverified.
 thesis — **rests on an unsourced denominator and may not be used** until the
 denominator is sourced.
 
-Searches attempted: ComEd/Exelon peak-demand records, EIA, PJM load forecast.
+Searches attempted (2026-08-20): ComEd/Exelon peak-demand records; EIA; Exelon
+10-Q and FY2025 results; [PJM 2026 Load Forecast Report](https://www.pjm.com/-/media/DotCom/library/reports-notices/load-forecast/2026-load-report.pdf);
+[PJM 2026 Load Forecast Accuracy Report](https://www.pjm.com/-/media/DotCom/planning/res-adeq/load-forecast/2026-load-forecast-accuracy-report.pdf).
+Both PJM reports carry a ComEd zone page, but the zonal peaks are published as
+**charts without numeric tables**. The ComEd summer-peak chart is drawn on a
+15,000–35,000 MW axis, which bounds the answer without giving it. The numeric
+zonal tables are in a separate PJM supplement that was not located.
 
 **Changes this row:** a ComEd, Exelon, PJM or EIA publication stating current
-system peak.
+system peak — most likely PJM's load forecast supplement tables, or an ICC
+filing where ComEd states its own peak.
+
+---
+
+### C5c — ComEd-zone metered data center load *(new, found while searching C5b)*
+
+**PLAUSIBLE, chart-read, not a figure.** · PRIMARY (PJM) · [PJM 2026 Load Forecast Accuracy Report](https://www.pjm.com/-/media/DotCom/planning/res-adeq/load-forecast/2026-load-forecast-accuracy-report.pdf), ComEd zone page
+
+PJM publishes a "Monthly Data Center Load Peak" series for the ComEd zone,
+Feb 2024 – Nov 2026, **drawn on a 0–800 MW axis**. It also publishes an "Annual
+Summer Large Load Adjustment" for ComEd on a 0–10,000 MW axis running to 2036.
+
+**What this permits, stated at the strength the source supports:** actual
+*metered* data center load in the ComEd zone is on the order of **hundreds of
+MW, bounded above by ~800**, while more than 28,000 MW of large-load projects sit
+in the application pipeline. Both numbers come from primary sources. The axis
+bound is read off a chart and is **not** a measurement — it may not be quoted as
+one, and it may not be given a decimal point.
+
+**Why this matters more than C5b:** the ratio the thesis actually wants is not
+applications-to-historical-peak — it is **applications-to-what-has-actually-shown-
+up**, which is the gap where speculative interconnection requests live. That gap
+is the reason deposits were imposed and the reason adversarial diligence has a
+buyer. It is also far more defensible in a sales conversation than a stale peak
+figure, because both sides of it are current and from PJM.
+
+**Changes this row:** locating PJM's numeric supplement, which would convert the
+axis bound into a figure and make this quotable; or a later report showing
+metered data center load stepping up sharply, which would narrow the gap and
+weaken the argument.
 
 ---
 
