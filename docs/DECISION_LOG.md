@@ -313,3 +313,72 @@ demonstrating that the binding constraint is finding sites rather than writing
 about them, which would make M-PP-01 correct on evidence instead of on ladder
 order. Either alone suffices. Type 2 — cheap to reverse, which is why it was
 decided fast.
+
+---
+
+## PP-014 — M-PP-02 resequenced: title search before memo prose; N2 gates writing, not only delivery
+**Date:** 2026-08-20 · **Contract:** M-PP-02 · **Decided by:** operator, compounder run by Claude
+
+Run against the eight gates after Phase 1 completed. **M-PP-02 survives — it is
+not killed.** Two amendments, both sequencing.
+
+**Amendment 1 — G1 before Phase 2.** The contract sent the operator from the
+dossier straight to the memo. Fails **OPPORTUNITY COST**: site control is the one
+open gap whose answer *changes the memo's central claim*. The record shows the
+annexation takes effect "upon the developer's acquisition of the property" and
+that $20M is due "within 30 days of closing on the property" — so on this record
+PowerHouse Hillwood does not own the 795 acres. If no title and no recorded option
+exist, the power-path analysis is downstream of a much simpler finding. One hour
+at the Will County Recorder, inside the operator's competence, free.
+
+**Amendment 2 — N2 gates writing.** As authored, the Illinois UPL question blocked
+*delivery* while *writing* proceeded. Fails **INVERT**: if the answer is that this
+is legal advice in substance, the memo needs a different **form**, not merely a
+different distribution. The answer determines the shape of the artifact and must
+precede it. One conversation, free.
+
+**REALITY, and it is the weakest point:** the falsifier is that nobody reads the
+memo. It is unpaid, undelivered, and **has no identified recipient**. The ICP is a
+hypothesis with zero conversations (PP-004) and R3's warm pipeline — which would
+supply a reader — **has now been raised twice without an answer.** Not checked.
+
+**INCENTIVES, on the agent:** Claude killed M-PP-01 for artifact production and
+then produced four files in `research/joliet-memo/` in a single turn. **The kill
+created a sense of licence** — discipline demonstrated, therefore the next build
+felt earned. Same self-justification with a virtue signal attached. Claude also
+sent the files proactively, which is presenting rather than deciding.
+
+**EMOTION, and the specific tell:** Phase 1 found a unit error in a government
+document ("annual electricity consumption of 1,800 megawatts") and a ~6.8x
+contradiction between two primary sources on the headline tax figure. That reads
+as the thesis proving itself. The tell is that this contract's own artifact-drift
+stop condition — *"if this contract produces a fourth research file before a single
+memo paragraph exists, stop and report"* — **was not checked while Phase 1 ran.**
+It was checked only afterward, when the compounder was run. Three of the four
+files are named in ACCEPTANCE and the fourth is an archived source, so a strict
+reading clears it. **Needing the strict reading is the finding.** Recorded in the
+contract as a self-report; the condition is now checked before each file is
+written rather than after the phase completes.
+
+**PROBABILITY:** operator can write a competent memo from the dossier ~85%; an
+identified reader exists within 30 days **unknown, and unknown only because a free
+question went unanswered twice**; N2 returning clean enough to avoid structural
+redesign **not estimable by Claude, and asserting a number would be the error the
+framework names**; memo #1 leading to a paid memo #2 within 90 days ~15%.
+
+**Process vs outcome:** the process is sound and has been for two sessions —
+primary sources, contradictions preserved, NULLs held. **Sequencing is what keeps
+failing.** ERCOT: good process, wrong county. M-PP-01: good process, wrong rung.
+Here: good process, wrong order. Three instances of the same class of error, each
+caught later than the last one should have taught.
+
+**DOOR:** Type 2 throughout. Writing is reversible, delivery stays blocked, and
+asking N2/R3 sooner strictly dominates asking later. Decided fast, per the rule
+for reversible doors.
+
+**New order:** G1 (title, one hour) → N2 and R3 in flight → memo prose.
+
+**Reversal condition:** G1 returning clean recorded title in PowerHouse Hillwood
+Holding, LLC, **and** N2 returning that the work is non-legal advisory as scoped —
+in which case the original sequence was harmless and the amendment cost one hour.
+Both required. Either alone leaves the amendment correct.

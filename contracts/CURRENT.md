@@ -84,9 +84,27 @@ Primary documents only, each with `source_url`, `source_tier`, `observed_date`:
 `research/joliet-memo/DOSSIER.md` and `research/joliet-memo/SOURCES.md`.
 Every failure recorded in `GAPS.md` with what it would cost to close.
 
+### Phase 1b — RESEQUENCED 2026-08-20, before any memo prose (operator)
+
+**Amended by PP-014.** The contract as authored sent the operator straight from
+the dossier to the memo. The compounder found that wrong at OPPORTUNITY COST and
+at INVERT. Two things must precede Phase 2:
+
+1. **G1 — site control, at the Will County Recorder. One hour.** This is the one
+   open gap whose answer **changes the memo's central claim**. If PowerHouse
+   Hillwood Holding, LLC holds no title and no recorded option on the 795-acre
+   assemblage, the power-path analysis is downstream of a much simpler finding,
+   and a memo written before the search is a memo written about the wrong thing.
+   Inside the operator's competence and free.
+
+2. **N2 and R3 put in flight.** Both are questions to other people, both are free,
+   and neither blocks anything else while it is pending. **They should already
+   have been asked** — R3 has been raised twice without an answer.
+
 ### Phase 2 — The memo (operator)
 
-Hand-written. Structure is the operator's. The only mandatory elements:
+**Gated on N2 being answered — see CONSTRAINTS, amended.** Hand-written.
+Structure is the operator's. The only mandatory elements:
 
 - The one question above, answered — including "undetermined," which is a valid
   and often correct answer.
@@ -110,9 +128,16 @@ Time per step, for M-PP-11. Recorded as reported, not estimated.
 
 ## CONSTRAINTS
 
-- **NOTHING IS DELIVERED.** The memo is written and held. Delivery to any named
-  human is blocked on **N2 — the Illinois UPL question** (PP-011). Writing is
-  Type 2. Delivering is Type 1.
+- **N2 GATES WRITING, NOT ONLY DELIVERY. Amended 2026-08-20 by PP-014.**
+  As authored, this contract blocked *delivery* on the Illinois UPL question and
+  let *writing* proceed. That was a sequencing error. If the answer is that this
+  constitutes legal advice in substance, the memo needs a different **form**, not
+  merely a different distribution — so the answer determines the shape of the
+  artifact and must precede it. One conversation, free, and it decides what is
+  being built. **No memo prose is written until N2 is answered.**
+- **NOTHING IS DELIVERED**, regardless. The memo is written and held. Writing is
+  Type 2. Delivering is Type 1 and stays blocked until the ICP question is
+  answered as well.
 - No paid data. If title work requires a purchase, **stop and report the cost.**
 - No template, no memo generator, no schema, no extraction pipeline. Schema is
   M-PP-04 and it is extracted *from* this memo, not designed before it.
@@ -151,3 +176,16 @@ action.
   and the reason it is his is written into `ARCHITECTURE.md`.
 - **Artifact drift** — if this contract produces a fourth research file before a
   single memo paragraph exists, stop and report. Standing kill criterion.
+
+  **SELF-REPORT, 2026-08-20 — this condition was approached and not checked.**
+  Phase 1 produced four files in `research/joliet-memo/`: `DOSSIER.md`,
+  `SOURCES.md`, `GAPS.md`, and an archived copy of the staff memo PDF. Zero memo
+  paragraphs existed. Three of the four are named in this contract's ACCEPTANCE
+  and are therefore authorized, and the fourth is an archived source rather than a
+  research file — **so a strict reading clears it.** It is recorded anyway,
+  because the condition was written to catch a feeling rather than a filename,
+  and because needing the strict reading is itself the signal. The count was not
+  checked at the time; it was checked only when the compounder was run afterward.
+
+  **Amendment:** this condition is checked **before** each file is written, not
+  after the phase completes.
