@@ -31,6 +31,75 @@ records, contested claims, parcel and title work, applied one county west.
 **Closing G1 is the single highest-value hour available on this site**, and it is
 the part of the memo no search engine can produce.
 
+### G1 addendum, 2026-08-20 — the parcel set, narrowed
+
+*(Appended to G1 rather than written as a new file. The artifact-drift condition
+was checked first, per the PP-014 amendment.)*
+
+Will County's public GIS parcel layer was queried directly:
+`gis.willcountyillinois.com/hosting/rest/services/Basemap/Parcels_LY_V/MapServer/0`.
+It is open, needs no token, and carries **PIN, address, acreage, property class,
+and equalized value — but no owner name field.** That is the boundary of what
+GIS can answer; owners come from the Supervisor of Assessments portal or the
+Recorder.
+
+**Candidate assemblage: sections 10-11-01 and 10-11-02** — 37 parcels, 1,307.9
+acres total, bounded by Rowell (west), Ridge (east), Schweitzer (north), with
+Bernhard running through, which matches the staff memo's right-of-way language
+(dedications to S. Rowell and S. Ridge; vacation of Bernhard between them;
+Millsdale extension to the western property line).
+
+**The eight largest class-F (farm) parcels in those two sections sum to 769.6
+acres — within ~3% of the stated 795.** Not a confirmation; a candidate set.
+
+| PIN | acres | address |
+|---|---|---|
+| 1011023000020000 | 155.00 | V BERNHARD |
+| 1011014000010000 | 123.05 | V BERNHARD |
+| 1011013000010000 | 116.00 | 17415 BERNHARD |
+| 1011011000010000 | 85.91 | V SCHWEITZER |
+| 1011012000010000 | 81.70 | V CHERRY HILL |
+| 1011021000180020 | 72.96 | V ROWELL |
+| 1011024000070000 | 70.00 | V BERNHARD |
+| 1011024000050000 | 65.00 | V RIDGE |
+
+### AND THE FINDING THAT MATTERS — existing utility parcels inside the site
+
+Seven parcels in these two sections carry the address label **"UTILITY
+BERNHARD"** and are classed **I (industrial)**:
+
+| PIN | acres | EAV |
+|---|---|---|
+| 1011011000040000 | 9.06 | 74,440 |
+| 1011021000020000 | 5.00 | 16,830 |
+| 1011021000120000 | 4.62 | 15,550 |
+| 1011022000040000 | 3.50 | 11,780 |
+| 1011012000060010 | 3.50 | 11,780 |
+| 1011012000060020 | 3.50 | 11,780 |
+| 1011022000060000 | 1.22 | 4,110 |
+
+**~30.4 acres of existing utility-classed parcels strung along Bernhard Road,
+through the middle of the proposed campus.** Their shape — a chain of small
+industrial parcels following one road — is the signature of a **transmission or
+pipeline right-of-way corridor**, not of standalone industrial sites.
+
+**Why this is the most valuable thing found on this site so far:** the staff memo
+describes the power path entirely in the future tense — substations "would
+accompany" each phase, a switching station "would be situated," Lot 3 "would
+eventually be conveyed." **These parcels already exist and are already utility.**
+Whether the campus's interconnection depends on, crosses, or is constrained by an
+existing ComEd corridor already running through the assemblage is **not mentioned
+anywhere** in the annexation record, the staff memo, or the developer's material.
+
+**Unknown, and the highest-value question now open:** who owns these seven
+parcels, what is recorded against them, and does an easement or right-of-way
+encumber the farm parcels around them. **If ComEd already holds a corridor
+through this site, the site-control question and the power-path question are the
+same question** — which is precisely the thesis, and it would be found in the
+operator's own record system, not in any energy database.
+
+**Cost: $0.** Same recorder search as the rest of G1, seven more PINs.
+
 ## G2 — The complaint itself
 
 **Unknown:** the actual pleadings in the Will County action. Everything in
