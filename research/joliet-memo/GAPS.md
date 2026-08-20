@@ -125,6 +125,146 @@ this site would show if the developer has control but not ownership. **A `no` at
 the assessor is not a `no` on a transaction.** Only the Recorder's
 grantor/grantee index answers that.
 
+---
+
+## G1 — RESULT, 2026-08-20. Operator ran `101101` and `101102`.
+
+**G1 is substantially CLOSED.** Findings below are from the Will County
+Supervisor of Assessments roll, retrieved by the operator, observed 2026-08-20.
+Tier: PRIMARY as to assessed ownership. **Assessed owner is not title** — the
+recorder search is still owed.
+
+### R1. The corridor hypothesis was WRONG. It is gas, not electric.
+
+The G1 addendum above hypothesised that the seven "UTILITY BERNHARD" parcels were
+*"the signature of a transmission or pipeline right-of-way corridor"* and asked
+*"If ComEd already holds a corridor through this site..."*
+
+**All seven return the assessed owner `NATURAL GAS PIPELINE`.** Not ComEd. Not
+electric. **The electric-corridor reading is FALSE and is recorded as false, not
+quietly restated as "utility corridor."**
+
+| PIN | acres | assessed owner |
+|---|---|---|
+| 10-11-01-100-004-0000 | 9.06 | NATURAL GAS PIPELINE |
+| 10-11-01-200-006-0010 | 3.50 | NATURAL GAS PIPELINE |
+| 10-11-01-200-006-0020 | 3.50 | NATURAL GAS PIPELINE |
+| 10-11-02-100-002-0000 | 5.00 | NATURAL GAS PIPELINE |
+| 10-11-02-100-012-0000 | 4.62 | NATURAL GAS PIPELINE |
+| 10-11-02-200-004-0000 | 3.50 | NATURAL GAS PIPELINE |
+| 10-11-02-200-006-0000 | 1.22 | NATURAL GAS PIPELINE |
+
+**INFERENCE, not fact:** "Natural Gas Pipeline Company of America LLC" (NGPL,
+Kinder Morgan) is a real entity of that name whose **Chicago supply hub is at
+Joliet**. The assessor string is consistent with NGPL but **is not confirmed to
+be NGPL**, and the roll may carry a truncated or generic label. Classification:
+**PLAUSIBLE.** Closing it: the recorder's grantee index on these seven PINs, or
+FERC's index of NGPL certificated facilities.
+
+**Why the wrong answer is still valuable — and this is not a rescue of a dead
+hypothesis, it is a different fact:** an interstate natural gas pipeline
+easement crossing a 795-acre campus is (a) a **construction constraint** — no-build
+setbacks, crossing agreements, encroachment consent from a FERC-jurisdictional
+operator; and (b) **the fuel path for on-site generation.** The developer states
+*"There are no plans for any onsite generation assets."* A large interstate gas
+line through the property is precisely what would make that statement
+changeable — and Homer City is 4.5 GW of **new gas generation** built against a
+reused site position. **What the record shows is a gas option nobody has priced,
+sitting under a campus whose electric path is unexecuted.**
+
+### R2. The developer owns nothing. Confirmed empirically.
+
+**Not one parcel in either section is assessed to PowerHouse, Hillwood, or any
+recognisable affiliate.** The site-control gap is no longer an inference from the
+annexation language — it is confirmed against the roll.
+
+### R3. But a contract purchaser exists, and it is a THIRD entity.
+
+Press reporting attributes to the City of Joliet that **`HW Technology Park
+Development, LLC` is the contract purchaser**, and that the current landowners
+include **Bernhard Farms, Inc.**
+
+So the structure has at least three names:
+- **PowerHouse Hillwood Holding, LLC** — annexation petitioner (PRIMARY, staff memo)
+- **HW Technology Park Development, LLC** — contract purchaser (SECONDARY, press citing the city)
+- **Hillwood / PowerHouse Data Centers** — the JV parents (PRIMARY, developer site)
+
+**This partially answers G1:** control is by **contract**, not ownership. It also
+opens a new question — why the petitioner and the purchaser are different
+entities, and which one the $100M community benefit and the annexation
+obligations actually bind. **Not determinable from anything assembled here.**
+
+### R4. The sellers are one extended family, fragmented across five vehicles.
+
+| Vehicle | Parcels |
+|---|---|
+| BERNHARD FARMS INC | 10-11-02-200-007-0010, -0020, 10-11-02-400-003-0000 |
+| BERNHARD FAMILY TRUST | 10-11-02-200-002-0000, 10-11-02-400-005-0000 |
+| BERNHARD FAMILY LAND TRUST | 10-11-02-100-018-0010, -0020 |
+| BERNHARD JAMES E TR | 10-11-01-200-001-0000, -007-0000, 10-11-01-400-005-0000 |
+| BERNHARD LEONARD E | 10-11-02-300-002-0000 *(155 ac — largest parcel in the set)* |
+
+Plus **`BERNARD FAMILY LAND TRUST`** at 10-11-02-400-007-0000 — **spelled without
+the `h`**. Either an assessor typo for the same family or a distinct entity.
+**Contradiction preserved, not resolved** (`SOURCE_OF_TRUTH.md` §6). It matters:
+a misspelled grantor name is a title defect, and it is the kind of thing that is
+found by looking rather than by asking.
+
+Non-Bernhard holders of size: **RIDGE ROAD LLC** (10-11-01-300-001-0000, 116 ac —
+an LLC named for a road, holding a large farm parcel, the classic holding-vehicle
+or assembler pattern), **LESCH JO RITA TR** (123 ac + 1), **PLUNK RONALD A TR**
+(85.91 ac + 1), **R&M LANDHOLDINGS LLC**, **MORGAN LAVERN FMLY PRTNRSHP LP**,
+**RKG LAND GROUP LLC**, **RACE CAMP LLC**. And a **FOREST PRESERVE DISTRICT**
+natural-trail parcel at 10-11-01-200-005-0000, inside the section.
+
+### R5. A named plaintiff owns a parcel inside the footprint.
+
+**`GARCIA PEDRO` is the assessed owner of 10-11-02-100-010-0000, 18041 W
+Schweitzer Rd, ~5 acres.**
+
+**Pedro Garcia is one of the three named plaintiffs** in the Will County action
+(DOSSIER §6). This is a **verified link between the litigation and a specific
+parcel inside the assemblage sections**, on the Schweitzer Road frontage the
+staff memo identified as the residential edge requiring an *"additional
+landscaping buffer."*
+
+The Doorneweerds do not appear in either section — they are presumably in an
+adjacent one. Not searched.
+
+### R6. Reported conflict-of-interest allegation — recorded as reported
+
+Press reporting (Patch, and DCD citing the City) states that **the landowning
+family is that of Joliet's city planning director, Jayne Bernhard**, and reports
+audience members at council meetings raising this during the hearings.
+
+**What is verified here:** Bernhard-named entities are the assessed owners of the
+core parcels. That is from the roll and is not in dispute.
+
+**What is NOT verified and is not asserted:** any relationship between the
+planning director and those entities; any recusal, disclosure, or failure of
+either; and any impropriety. **This repository makes no such finding.** Whether a
+conflict exists is a legal and ethical determination requiring the city's
+disclosure records and the official's own filings — **none of which have been
+looked at.**
+
+**Recorded because it is material and because omitting it would be a choice**, and
+because a memo that discusses this land without noting who is reported to own it
+would be incomplete in a way a reader would resent discovering later. It is
+recorded at the strength the sources support and no further.
+
+### What G1 still owes
+
+- **Recorder grantor/grantee index** on all fifteen PINs: deeds, **options and
+  purchase-agreement memoranda**, and **easements** — particularly the gas
+  easement's terms and whether it encumbers the farm parcels, not just the seven
+  utility strips.
+- Confirmation that `NATURAL GAS PIPELINE` is NGPL.
+- Illinois SOS registered agents/managers for RIDGE ROAD LLC, R&M LANDHOLDINGS
+  LLC, RKG LAND GROUP LLC, HW TECHNOLOGY PARK DEVELOPMENT LLC.
+- The `BERNARD` / `BERNHARD` spelling discrepancy.
+
+**Cost: still $0.**
+
 ## G2 — The complaint itself
 
 **Unknown:** the actual pleadings in the Will County action. Everything in
