@@ -12,7 +12,7 @@ from the M-PP-BOOT research pass and are revisable by contract.
 | Rung | Contract |
 |---|---|
 | M-PP-00 | Foundation docs — populate the six `/docs` stubs, including the falsification table |
-| M-PP-01 | Named prospect list from public record (DCIP agreements, county rezoning dockets) |
+| M-PP-01 | Named prospect list from public record (DCIP agreements, **municipal** annexation/rezoning/PUD records; county records as secondary sweep — amended by PP-008) |
 | M-PP-02 | Spec memo v0 — one real site, hand-written, unpaid. The sales asset |
 | M-PP-03 | Source registry + provenance capture, built from what the memo actually used |
 | M-PP-04 | Claim/evidence schema — extracted from the memo, not designed ahead of it |
@@ -62,3 +62,12 @@ Until logged, M-PP-16 may not be authored.
 | Contract | Closed |
 |---|---|
 | M-PP-BOOT | repository skeleton |
+| M-PP-00 | foundation docs (2026-08-20) |
+
+## Note on ladder state
+
+M-PP-01, M-PP-05/06, M-PP-01b and M-PP-01c appear in commit history executed
+against ERCOT while M-PP-00 was still open. That wedge was killed (PP-006) and
+the out-of-order execution is recorded at PP-007. **Those rungs are NOT closed.**
+The artifacts are kept as reference in `/research/ercot-audit-prospects/`;
+the rungs must be authored fresh against Illinois.

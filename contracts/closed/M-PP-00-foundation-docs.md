@@ -1,6 +1,6 @@
 # CONTRACT M-PP-00 — Foundation Docs
 
-Status: OPEN — authored 2026-08-20
+Status: CLOSED 2026-08-20
 Rung: M-PP-00 (first rung). Prior contract M-PP-BOOT closed 2026-08-20.
 Gate status: no stophook gate blocks this contract.
 
@@ -144,3 +144,50 @@ failed verification, and the single next action.
   the cost, await ruling.
 - Any temptation to write code, schemas, or a source catalog → stop; out of
   scope, and it belongs to a later rung.
+
+
+---
+
+## CLOSEOUT NOTES — 2026-08-20
+
+**PLAN GATE:** Phase 1 results were output as a table; operator approved before
+any write to `/docs`. Full worksheet with verbatim quotes and recorded search
+failures: `research/mpp00-verification/PHASE1_VERIFICATION.md`.
+
+**Verification outcome:** SUPPORTED 7 · UNKNOWN 1 · PARTLY FALSE 1 ·
+CONTEXT-DEPENDENT 1 · PLAUSIBLE 1. (C2 and C5 each split in two; C10 split three
+ways.) No stop condition was hit — C1, C3 and C5a were not contradicted by their
+primary sources. C5b was left UNKNOWN rather than restated weakly to survive.
+
+**Acceptance item NOT met, and recorded rather than faked:** the operator's
+original assumptions A–N are not recoverable from this repository. They exist only
+in the M-PP-BOOT session transcript. Per the NULL rule they were not reconstructed.
+Three items inferable from committed artifacts are recorded as RECONSTRUCTED
+(R1–R3), a class carrying no confidence. See DECISION_LOG PP-012. **A–N are added
+by amendment to ASSUMPTIONS.md when the operator supplies them, without opening a
+new contract, since this contract's acceptance already names them.**
+
+**Scope additions, both in-scope consequences of Phase 1:**
+- `research/mpp00-verification/PHASE1_VERIFICATION.md` — the worksheet. Written
+  before the gate to prevent loss; precedent M-PP-BOOT closeout.
+- DECISION_LOG entries PP-006 through PP-012 beyond the five seeds specified.
+  The contract required "at least PP-001 through PP-005."
+
+**Findings that change later rungs:**
+- **PP-008** — M-PP-01's method is amended from county rezoning dockets to
+  municipal annexation/rezoning/PUD records, county retained as secondary sweep.
+  The largest Illinois approvals were city council actions.
+- **PP-007** — M-PP-01, M-PP-05/06, M-PP-01b and M-PP-01c were executed against
+  ERCOT while this contract was open, in violation of the one-contract rule.
+  Artifacts kept as reference; **not counted as ladder progress.** M-PP-01 and
+  M-PP-05/06 remain unexecuted and must be authored fresh against Illinois.
+- **PP-010** — the 28 GW / 24 GW comparison is barred from any memo, deck or
+  outreach message until the denominator carries a current primary source.
+- A live surface: FERC's six §206 show cause orders (EL26-67-000 et al.) had a
+  60-day response deadline that fell ~2026-08-17. Responses have landed and are
+  unread. Cheapest available input to memo #1 and to ASSUMPTIONS N4.
+
+**Next action:** the four zero-cost items at the top of ROADMAP's sequenced list —
+the Illinois UPL question, assumptions A–N plus warm-pipeline status from the
+operator, three buyers asked whether copper-vs-paper is decision-relevant, and the
+ComEd peak denominator. None requires a contract. Then author M-PP-01.
