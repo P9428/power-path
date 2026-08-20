@@ -63,6 +63,7 @@ Until logged, M-PP-16 may not be authored.
 |---|---|
 | M-PP-BOOT | repository skeleton |
 | M-PP-00 | foundation docs (2026-08-20) |
+| M-PP-01 | **KILLED at the compounder 2026-08-20, rung skipped** — deliverable already satisfied by M-PP-00; see PP-013 |
 
 ## Note on ladder state
 

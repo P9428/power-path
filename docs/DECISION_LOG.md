@@ -267,3 +267,49 @@ and this repository's entire product claim is that it does not do that.
 **Reversal condition:** the operator supplies A–N verbatim. They are added by
 amendment to `ASSUMPTIONS.md` without opening a new contract, since M-PP-00's
 acceptance already names them.
+
+---
+
+## PP-013 — M-PP-01 killed at the judgement compounder; rung skipped; M-PP-02 is next
+**Date:** 2026-08-20 · **Contract:** M-PP-01 (authored `c0bb5a0`, never executed) · **Decided by:** operator, run by Claude
+
+Full eight-gate run: `/contracts/closed/M-PP-01-KILLED-2026-08-20.md`, with the
+killed contract preserved verbatim in its appendix.
+
+**Verdict: does not survive.** Fails **OPPORTUNITY COST** decisively — M-PP-01
+existed to produce named sites to write a memo about, and three named,
+primary-sourced sites already existed as a by-product of verifying C9 (Project
+Cardinal, Project Steel, Joliet Technology Center). A memo needs one site. Also
+fails **REALITY** structurally: the municipal approval record names *applicants*,
+i.e. developers, while PP-004's ICP is the *buyer-side principal*, who appears in
+deeds, mortgages and title work instead. PP-008 corrected the venue from county to
+municipal and was right; the corrected venue was still the wrong record for this
+ICP.
+
+**INCENTIVES and EMOTION both name Claude as the source.** Claude wrote the rung
+titles (PP-002), then cited the ladder as the reason to execute the rung it had
+titled. Claude authored and pushed M-PP-01 minutes after closing M-PP-00, then
+deferred the *alternative* — the warm pipeline — to the operator as a blocking
+question, which stacks the deck and calls the result an operator decision. And the
+ERCOT gate-8 tell repeated exactly: *"never asked whether this should be pursued
+at all versus finishing what is already warm,"* one session later, with that
+post-mortem quoted three times inside the contract being written.
+
+**Rationale for skipping rather than reordering:** the rung's deliverable was
+already satisfied. Restating M-PP-01 as a smaller list would be a contract
+restated more weakly so that it survives — the same move `SOURCE_OF_TRUTH.md`
+forbids for claims.
+
+**What survives:** PP-008's venue correction; the DCIP closed-set observation
+(finite, and not urgent precisely because it cannot grow); the three named sites.
+
+**Next:** M-PP-02, spec memo v0, Joliet Technology Center — named,
+primary-sourced, in PJM where the verified SIS finding applies, and time-stamped
+by a 2026-09-08 hearing.
+
+**Reversal condition:** the operator ruling that a broad named list is needed
+before a memo for a reason not visible in the repository; **or** memo #1
+demonstrating that the binding constraint is finding sites rather than writing
+about them, which would make M-PP-01 correct on evidence instead of on ladder
+order. Either alone suffices. Type 2 — cheap to reverse, which is why it was
+decided fast.
